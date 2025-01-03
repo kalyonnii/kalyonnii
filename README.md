@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyonnii&label=Profile%20views&color=0e75b6&style=flat" alt="kalyonnii" /> </p>
 
-- 🔭 I’m currently working on [HRM]
+- 🔭 I’m currently working on HUMAN RESOURCE MANAGEMENT (HRM)
 - 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **react Node.Js**
